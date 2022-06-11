@@ -1,0 +1,3 @@
+API_URL=https://dev.datamp.ru/api/
+# http://localhost:8888/
+NODE_TLS_REJECT_UNAUTHORIZED=0
