@@ -4,7 +4,6 @@
 - Typescript
 - Pinia
 - Quasar
-- SSR
 
 ![1](https://user-images.githubusercontent.com/78386140/173198556-923cbadb-424b-4b6c-a468-074f9ab31e40.png)
 
